@@ -10,6 +10,10 @@ Final Assignment: Create and Share Your Jupyter Notebook </br>
 Module 1 </br>
 Peer-graded Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard </br>
 
+### Databases and SQL for Data Science with Python
+Module 5 </br>
+Final Assignment: Database Querying using SQLite </br>
+
 
 ## Author
 Yu-Hsien Chen
