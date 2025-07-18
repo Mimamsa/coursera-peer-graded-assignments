@@ -18,6 +18,10 @@ Final Assignment: Database Querying using SQLite </br>
 Module 6 </br>
 Peer-graded Assignment: House Sales in King County, USA </br>
 
+### Data Visualization with Python
+Module 5 </br>
+Peer-graded Assignment: Create Visualizations using Matplotlib, Seaborn & Folium、Create Dashboard with Plotly and Dash </br>
+
 
 ## Author
 Yu-Hsien Chen
