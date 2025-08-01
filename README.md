@@ -20,10 +20,11 @@ Peer-graded Assignment: House Sales in King County, USA </br>
 
 ### Data Visualization with Python
 Module 5 </br>
-Peer-graded Assignment: Create Visualizations using Matplotlib, Seaborn & Folium、Create Dashboard with Plotly and Dash </br>
+Peer-graded Assignment: Create Visualizations using Matplotlib, Seaborn & Folium, Create Dashboard with Plotly and Dash </br>
 
 ### Applied Data Science Capstone
-Module 5 </br>
+Module 1-5 </br>
+All ungraded hands-on-lab in module 1-4 and </br>
 Peer-graded Assignment: Final Representation </br>
 
 
